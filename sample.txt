@@ -1,2 +1,8 @@
 Hello
 
+<<<<<<< HEAD
+=======
+Hi
+
+Addeed third line
+>>>>>>> new-branch
