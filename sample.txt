@@ -7,3 +7,5 @@ Addeed third line
 new-branch
 
 Another line added
+
+Another line
